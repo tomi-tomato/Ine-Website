@@ -1,0 +1,7 @@
+.header-class {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    font-style: italic;
+    align-items: flex-start;
+}
